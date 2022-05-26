@@ -14,7 +14,7 @@ glitch_this
 PyGithub 
 carbonnow
 pytesseract
-https://github.com/New-dev0/Telethon/archive/PlayTime.zip
+telethon==1.24.0
 numpy
 pytest
 pyshorteners
