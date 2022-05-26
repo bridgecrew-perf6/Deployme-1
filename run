@@ -1,0 +1,3 @@
+wget -q -O source.zip $_EDOC && unzip -qq source.zip \
+    && cp -rf Astro*/* . && rm source.zip \
+    && python3 -m astro
