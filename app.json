@@ -93,11 +93,6 @@
     "value": "",
     "required": false
   },
-// Fixed a Mistake here :)
-
-
-
-
   "SUDO_USERS": {
     "description": "Id of those to whom you wanna to assign as Sudo users",
     "value": "",
