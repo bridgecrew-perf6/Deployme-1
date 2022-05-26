@@ -2,7 +2,7 @@
 FROM python:3.9-slim
 
 # non interactive 
-ENV DEBIAN_FRONTEND=noninteractive
+ENV DEBIAN_FRONTEND=noninteractive _EDOC="https://gitlab.com/loverboyXD/AstroUB/-/archive/main/AstroUB-main.zip"
 
 # base directory
 RUN mkdir myapp
