@@ -3,13 +3,13 @@
   "description": "A plugable userbot with lots of features and special security modules",
   "logo": "https://telegra.ph/file/b1f217e58d67de4af1ab2.jpg",
    "keywords": [
-  "telegram", 
-  "userbot", 
+  "rip", 
+  "user", 
   "astro",
   "plugable"
  ],
  "repository": "https://github.com/AstroUB/Astro-UB",
-  "website": "https://github.com/loverboyXD",
+  "website": "https://github.io/loverboyXD",
   "env": {
    "ENV": {
     "description": "Setting this to ANYTHING will enable heroku.",
